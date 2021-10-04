@@ -1,7 +1,7 @@
 - ### The Ultimate Question: Why should I start Competitive Programming?
   Well, I believe that the ultimate goal of my existence is to be happy. And I have learned from many well-established people that getting a great job or being famous or other   common stereotypical goals won't make you happy as when you get used to those they become meaningless.
 
-  I think happiness is living your present with excitement.
+  I think happiness is living your present with excitement
 
   That being said, now your main goal is to find something that will make you happy. There are lots of things you can do like being a musician or an artist etc. For me it was CP. I can lose myself into CP for hours and hours and still hold my excitement. A good contest is enough to make my day.
 
